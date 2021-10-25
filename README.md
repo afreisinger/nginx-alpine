@@ -1,4 +1,4 @@
-# publish docker image to multiple registries
+# Publish docker image to multiple registries
 
 Based on [Publishing Docker images](https://docs.github.com/actions/publishing-packages/publishing-docker-images)
 
